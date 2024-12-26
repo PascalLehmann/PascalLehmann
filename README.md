@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Pascal Lehmann.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Pascal, a German Hobby Developer :
  currently working on my own [webpage](https://www.pascallehmann.de)
